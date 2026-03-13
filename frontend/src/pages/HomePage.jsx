@@ -1,6 +1,6 @@
 import { useEffect, useState } from "react";
 import api from "../lib/axios";
-import WeatherCard from "../components/weatherCard";
+import WeatherCard from "../components/WeatherCard";
 import WeatherAlerts from "../components/WeatherAlerts";
 import WeatherNotFound from "../components/WeatherNotFound";
 
